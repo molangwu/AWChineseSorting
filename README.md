@@ -6,5 +6,5 @@
 //传入要排序的字符串数组参数（类型为[String]） 返回 名字的首字母数组（类型为NSMutableArray）
 ChineseString.IndexArray(param) 
 //传入要排序的字符串数组参数（类型为[String]） 返回 排序之后的二维名字数组（类型为NSMutableArray）
-letterResultArr_name = ChineseString.LetterSortArray(epAddressBook.name)
+ChineseString.LetterSortArray(param)
 
